@@ -2,7 +2,7 @@ backend:
   # name: git-gateway
   name: github
   branch: main # Branch to update (optional; defaults to master)
-  repo: sorokin-vladimir/blog-boilerplate
+  repo: sorokin-vladimir/blog
 
 # Uncomment below to enable drafts
 # publish_mode: editorial_workflow
